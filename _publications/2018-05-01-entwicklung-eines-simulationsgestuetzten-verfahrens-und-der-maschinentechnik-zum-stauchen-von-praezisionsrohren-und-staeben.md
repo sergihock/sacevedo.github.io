@@ -6,7 +6,7 @@ excerpt: 'This report summarizes the methodology and results of the internationa
 date: 2018-05-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Acevedo, S., Adams, B. ‚Entwicklung eines simulationsgestützten Verfahrens und der Maschinentechnik zum Stauchen von Präzisionsrohren und Stäben‘, <i>Abschlussbericht zum Teilprojekt des ZIM FuE-Verbundprojekts, Förderkennzeichen KF2123640 US4</i>, Osnabrück 05/2018'
 ---
 This report summarizes the methodology and results of the international research project "", sponsored by the .
 
