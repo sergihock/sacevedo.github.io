@@ -11,9 +11,9 @@ title                    : "Sergio Acevedo"
 title_separator          : "-"
 name                     : &name "Sergio Acevedo"
 description              : &description "PhD Candidate at Chemnitz University of Technology. Researcher at Osnabrück University of Applied Sciences"
-url                      : https://sergioacevedo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sergihock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sergioacevedo.github.io"
+repository               : "sergihock.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
