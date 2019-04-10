@@ -19,7 +19,7 @@ Work experience
 ======
 * Fall 2015-present: Research Assistant
   * Osnabrück University of Applied Sciences
-  * Duties included: Tagging issues
+  * Duties included: 
   * Supervisor: Professor Dr.-Ing. B. Adams
 
 Skills
