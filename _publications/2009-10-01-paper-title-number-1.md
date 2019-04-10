@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-06-tubeforging
 excerpt: 'Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243'
 date: 2015-06
-venue: ''
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -12,4 +12,4 @@ Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243
 
 [Download paper here](http://.github.io/files/paper1.pdf)
 
-Recommended citation: Adams, B., Westerbusch, T., Acevedo, S. (2015). "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr." <i>Journal 1</i>.
+Recommended citation: Adams, B., Westerbusch, T., Acevedo, S. (2015). "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr." <i>Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243</i>.
