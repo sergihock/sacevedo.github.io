@@ -12,4 +12,4 @@ Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243
 
 [Download paper here](http://.github.io/files/paper1.pdf)
 
-Recommended citation: Adams, B., Westerbusch, T., Acevedo, S. (2015). "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr." <i>Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243</i>.
+Recommended citation: Adams, B., Westerbusch, T., Acevedo, S., "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr", <i>Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243</i>, Osnabrück 06/2015
