@@ -1,0 +1,15 @@
+---
+title: "Numerical Modeling of Electrical Upsetting Manufacturing Processes Based on FORGE® Environment"
+collection: publications
+permalink: /publication/2019-05-15-development-of-an-expert-system-for-electrical-forging
+excerpt: 'This paper is about the simulation of Electrically Assisted Forming processes in the commercial FEA software FORGE.'
+date: 2019-05-15
+venue: 'NEMU'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Rauschnabel, E., Odening, D., Adams, B., Alves, J., Acevedo, S., Bay, F., ‘Development of an expert system for electrical forging’, <i>NEMU 2019: Neuere Entwicklungen in der Massivumformung</i>, Stuttgart, 05/2019'
+---
+This paper is about the simulation of Electrically Assisted Forming processes in the commercial FEA software FORGE. The implementation of the electric computation and coupling the with mechanic and thermal solvers.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Rauschnabel, E., Odening, D., Adams, B., Alves, J., Acevedo, S., Bay, F., ‘Development of an expert system for electrical forging’, <i>NEMU 2019: Neuere Entwicklungen in der Massivumformung</i>, Stuttgart, 05/2019
