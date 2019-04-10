@@ -1,7 +1,7 @@
 ---
 title: "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr"
 collection: publications
-permalink: /publication/2015-06-tubeforging
+permalink: /publication/2015-06-01-tubeforging
 excerpt: 'Abschlussbericht zum KMU-innovativ Verbundprojekt, Foerderkennzeichen 02PK2243'
 date: 2015-06-01
 venue: 'Osnabrueck'
