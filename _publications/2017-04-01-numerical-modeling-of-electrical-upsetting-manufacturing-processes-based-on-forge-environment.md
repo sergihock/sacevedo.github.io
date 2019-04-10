@@ -1,7 +1,7 @@
 ---
 title: "Numerical Modeling of Electrical Upsetting Manufacturing Processes Based on FORGE® Environment"
 collection: publications
-permalink: /publication/2017-04-numerical-modeling-of-electrical-upsetting-manufacturing-processes-based-on-forge-environment
+permalink: /publication/2017-04-01-numerical-modeling-of-electrical-upsetting-manufacturing-processes-based-on-forge-environment
 excerpt: 'This paper is about the simulation of Electrically Assisted Forming processes in the commercial FEA software FORGE.'
 date: 2010-10-01
 venue: 'Journal 1'
