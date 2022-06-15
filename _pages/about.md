@@ -69,7 +69,8 @@ Currently concluding my Doctoral Studies in Metal Forming and Computational Mech
 
   * Adams, B., Westerbusch, T., Juhr, K., Acevedo, S., ‘Near‐net‐shape forming of geared hollow shafts from tube’, KMU‐innovativ joint project final report, 02PK2243 (Jun. 2015), Osnabrück, Germany.
 
-# Skills
+# SKILLS
+
 <!-- * FEA analysis of hot and cold forming processes -->
 * CAD/CAM:  CATIA V5/V6  ·  SolidWorks  ·  AutoCAD
 * FEA:  FORGE · Simufact · AutoForm · Abaqus FEA · ANSYS Workbench/Mechanical
