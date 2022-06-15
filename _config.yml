@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sergio Acevedo"
+title                    : "Sergio Acevedo Rigueras"
 title_separator          : "-"
-name                     : &name "Sergio Acevedo"
+name                     : &name "Sergio Acevedo Rigueras"
 description              : &description "Metal Forming & Computational Mechanics. PhD Candidate at Chemnitz University of Technology. Researcher at Osnabrück University of Applied Sciences."
 url                      : https://sergihock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sergio Acevedo"
+  name             : "S. Acevedo Rigueras, MSc"
   avatar           : "Captura_2022_baw.png"
   bio              : "Metal Forming & Computational Mechanics. PhD Candidate at Chemnitz University of Technology. Researcher at Osnabrück University of Applied Sciences."
   location         : "Osnabrück, Germany"
