@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Lorem ipsum
+Modelling and FEM analysis of cold and hot metal forming processes. 
+
+6-year industrial experience in process development, tool design, prototype implementation and optimization of electrically assisted forging products
