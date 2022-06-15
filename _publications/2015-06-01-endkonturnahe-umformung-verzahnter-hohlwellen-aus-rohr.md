@@ -6,6 +6,7 @@ excerpt: 'Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 
 date: 2015-06-01
 venue: ''
 paperurl:
+
 citation: 'Adams, B., Westerbusch, T., Acevedo, S., "Endkonturnahe Umformung verzahnter Hohlwellen aus Rohr", <i>Abschlussbericht zum KMU-innovativ Verbundprojekt, Förderkennzeichen 02PK2243</i>, Osnabrück 06/2015'
 ---
 <!--paperurl: 'http://academicpages.github.io/files/paper1.pdf'-->
