@@ -15,6 +15,7 @@ redirect_from:
 Currently concluding my Doctoral Studies in Metal Forming and Computational Mechanics.
 
 sergio.acevedo.rigueras@gmail.com
+[sergio.acevedo.rigueras@gmail.com](mailto:sergio.acevedo.rigueras@gmail.com)
 <!-- * [Résumé](http://sergihock.github.io/cv) -->
 
 
