@@ -11,9 +11,9 @@ title                    : "Sergio Acevedo Rigueras"
 title_separator          : "-"
 name                     : &name "Sergio Acevedo Rigueras"
 description              : &description "Metal Forming & Computational Mechanics. PhD Candidate at Chemnitz University of Technology. Researcher at Osnabrück University of Applied Sciences."
-url                      : https://sacevedo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://acevedosergio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sacevedo.github.io"
+repository               : "acevedosergio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
